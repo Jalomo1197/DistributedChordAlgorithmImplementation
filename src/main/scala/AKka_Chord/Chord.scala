@@ -1,4 +1,4 @@
-package AKka_Chord
+package Akka_Chord
 
 import akka.actor.typed.scaladsl.{AbstractBehavior, ActorContext, Behaviors}
 import akka.actor.typed.{ActorRef, Behavior, PostStop, Signal}
