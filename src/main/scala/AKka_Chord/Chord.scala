@@ -1,5 +1,6 @@
 package Akka_Chord
 
+import AKka_Chord.{Hash, User}
 import akka.actor.typed.scaladsl.{AbstractBehavior, ActorContext, Behaviors}
 import akka.actor.typed.{ActorRef, Behavior, PostStop, Signal}
 import net.ceedubs.ficus.Ficus._

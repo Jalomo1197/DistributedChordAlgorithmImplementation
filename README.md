@@ -1,13 +1,13 @@
 # Distributed Chord Algorithm Implementation
 
 ## Group Members
-Deividas Mickevicius : dmicke5
+[Deividas Mickevicius](https://github.com/davidmickev) : dmicke5
 
 
-Jacob Sanchez : jsanch75
+[Jacob Sanchez](https://github.com/jsanchez78) : jsanch75
 
 
-Alex Jalomo : ajalom2
+[Alex Jalomo](https://github.com/Jalomo1197) : ajalom2
 
 
 ## Prerequisites

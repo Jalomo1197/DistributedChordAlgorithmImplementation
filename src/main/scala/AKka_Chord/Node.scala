@@ -1,10 +1,11 @@
 package Akka_Chord
 
+import AKka_Chord.{FingerEntry, Interval, User}
 import akka.actor.typed.{ActorRef, Behavior, PostStop, Signal}
 import akka.actor.typed.scaladsl.AbstractBehavior
 import akka.actor.typed.scaladsl.ActorContext
 import akka.actor.typed.scaladsl.Behaviors
-import response.{FT_entry_update, initTable_type, predecessor_type, successor_type, updateOthers_type, key_response}
+import response.{FT_entry_update, initTable_type, key_response, predecessor_type, successor_type, updateOthers_type}
 
 object Node {
   def apply(key: String, value: String, m: Int, hashedKey: Int): Behavior[Command] = {
