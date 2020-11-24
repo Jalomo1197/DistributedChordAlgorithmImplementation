@@ -4,16 +4,16 @@
 
 | Github | Website|
 |------------- | -------------|
-| [Deividas Mickevicius](https://github.com/davidmickev)             |  [davidmickev.github.io](https://davidmickev.github.io)            |
+| [Deividas Mickevicius](https://github.com/davidmickev)            |  [davidmickev.github.io](https://davidmickev.github.io)            |
 |   [Jacob Sanchez](https://github.com/jsanchez78)            |  [jacobsanchez.dev](https://www.jacobsanchez.dev)            |
-|  [Alex Jalomo](https://github.com/Jalomo1197)            |  [jalomo1197.github.io/Portfolio/](https://jalomo1197.github.io/Portfolio/)            |
+|  [Alex Jalomo](https://github.com/Jalomo1197)            |  [jalomo1197.github.io](https://jalomo1197.github.io/Portfolio/)            |
 
 
 ## Prerequisites
 Installed [sbt-1.3.13](https://www.scala-sbt.org/download.html) 
 
 ## Instructions
-* Download the project [source](https://bitbucket.org/jsanch75/group_13/src/master/) 
+* Download the project [source](https://github.com/Jalomo1197/DistributedChordAlgorithmImplementation) 
 
 * or use
 `git clone https://mttdavid@bitbucket.org/jsanch75/group_13.git`
